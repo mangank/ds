@@ -1,0 +1,15 @@
+/Users/kulanimanganyi/Downloads/ds/bin/Debug/net6.0/DS
+/Users/kulanimanganyi/Downloads/ds/bin/Debug/net6.0/DS.deps.json
+/Users/kulanimanganyi/Downloads/ds/bin/Debug/net6.0/DS.runtimeconfig.json
+/Users/kulanimanganyi/Downloads/ds/bin/Debug/net6.0/DS.dll
+/Users/kulanimanganyi/Downloads/ds/bin/Debug/net6.0/DS.pdb
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.csproj.AssemblyReference.cache
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.AssemblyInfoInputs.cache
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.AssemblyInfo.cs
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.csproj.CoreCompileInputs.cache
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.dll
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/refint/DS.dll
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.pdb
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/DS.genruntimeconfig.cache
+/Users/kulanimanganyi/Downloads/ds/obj/Debug/net6.0/ref/DS.dll
